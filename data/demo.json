@@ -1,0 +1,28 @@
+[
+    {
+        "UserId": "1",
+        "CourseID": "DP203",
+        "CourseName": "Azure Data Engineering",
+        "isBestCourse": true,
+        "isPreferredCourse": true,
+        "id": "fbec9baf-a57c-4462-b63d-771dc15dca3c",
+        "_rid": "NcdZAK0rbF8BAAAAAAAAAA==",
+        "_self": "dbs/NcdZAA==/colls/NcdZAK0rbF8=/docs/NcdZAK0rbF8BAAAAAAAAAA==/",
+        "_etag": "\"0000fd0a-0000-0c00-0000-618e46cd0000\"",
+        "_attachments": "attachments/",
+        "_ts": 1636714189
+    },
+    {
+        "UserId": "2",
+        "CourseID": "AZ-400",
+        "CourseName": "Azure Devops Expert",
+        "isBestCourse": true,
+        "isPreferredCourse": true,
+        "id": "8ceea46f-7e85-4413-85fa-7dd7227170a7",
+        "_rid": "NcdZAK0rbF8CAAAAAAAAAA==",
+        "_self": "dbs/NcdZAA==/colls/NcdZAK0rbF8=/docs/NcdZAK0rbF8CAAAAAAAAAA==/",
+        "_etag": "\"0000fe0a-0000-0c00-0000-618e46da0000\"",
+        "_attachments": "attachments/",
+        "_ts": 1636714202
+    }
+]
